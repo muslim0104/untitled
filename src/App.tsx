@@ -19,7 +19,7 @@ function App() {
           rel="noopener noreferrer"
         >
                   Learn React
-            <p>12</p>
+            <p>132</p>
         </a>
       </header>
     </div>
